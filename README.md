@@ -14,5 +14,5 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="mailto:ojasvi.naik@gmail.com">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=mail&logoColor=white" />
+    <img src="https://img.shields.io/badge/mail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
