@@ -7,12 +7,12 @@
 ![Ojasvi's github stats](https://github-readme-stats.vercel.app/api?username=ojasvinaik13&count_private=true&show_icons=true&theme=tokyonight)     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvinaik13&layout=compact&theme=tokyonight&card_width=445)
 ## You can also find me here:  
-<a href="https://www.linkedin.com/in/ojasvi-naik-009980194/" target=_blank>
+<a href="https://www.linkedin.com/in/ojasvi-naik-009980194/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://www.instagram.com/the.coloured.palette/" target=_blank>
+<a href="https://www.instagram.com/the.coloured.palette/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="mailto:ojasvi.naik@gmail.com" target=_blank>
+<a href="mailto:ojasvi.naik@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
