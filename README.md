@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ojasvi-naik-009980194/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://www.instagram.com/the.coloured.palette/" target="_blank">
+<a href="https://www.instagram.com/resinbyojasvi/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="mailto:ojasvi.naik@gmail.com" target="_blank">
