@@ -1,6 +1,5 @@
 # Hi, I am Ojasvi :sparkles:👩🏻‍💻
-![Image](https://raw.githubusercontent.com/ojasvinaik13/ojasvinaik13/master/images/me.png)
-## I am a Third year Computer Science Undergraduate.
+## I am a Final year Computer Science Undergraduate.
 > Always eager to learn new technologies and develop new projects. Determined to complete any task at hand.  
 > Programmer by Day💻, Artist by Night:art:
 ## My GitHub Stats
