@@ -1,5 +1,5 @@
 # Hi, I am Ojasvi :sparkles:👩🏻‍💻
-## I am a first year Master's Student.
+## I am a second year Master's Student.
 ## My GitHub Stats
 ![Ojasvi's github stats](https://github-readme-stats.vercel.app/api?username=ojasvinaik13&count_private=true&show_icons=true&theme=tokyonight)     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvinaik13&layout=compact&theme=tokyonight&card_width=445)
