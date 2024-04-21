@@ -8,4 +8,7 @@ I am a second year Master's in CS Student at the University of Southern Californ
 ## You can also find me here:  
 <a href="https://www.linkedin.com/in/ojasvi-naik/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</a>
+<a href="mailto:ojasvi.naik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+</a>	
