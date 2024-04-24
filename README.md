@@ -1,5 +1,5 @@
 # Hi, I am Ojasvi :sparkles:👩🏻‍💻
-I am a second year Master's in CS Student at the University of Southern California, with a passion for Full Stack Development (Web and Mobile), along with Natural Language Processing and Machine Learning, on the side. 
+I am a second year Master's in CS Student at the University of Southern California, with a passion for Full Stack Development (Web and Mobile) and an extended interest in the realms of Machine Learning and Natural Language Processing. 
 ## My GitHub Stats
 ![Ojasvi's github stats](https://github-readme-stats.vercel.app/api?username=ojasvinaik13&count_private=true&show_icons=true&theme=tokyonight)     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvinaik13&layout=compact&theme=tokyonight&card_width=445)
